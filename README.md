@@ -17,5 +17,16 @@ This repository contains the Arduino-based prototype of a Smart Bangle, develope
 - LEDs
 - Push Button
 - Breadboard & Jumper wires
+
+📂 Repository Structure
+- `src/` → Arduino code (`.ino`)  
+- `docs/` → Documentation (report, wiring diagram, flowchart)  
+- `media/` → Prototype images/videos  
+
+🚀 How to Run
+1. Clone or download this repository.  
+   - bash
+   git clone https://github.com/username/fyp_smart_bangle.git
+
   
 
